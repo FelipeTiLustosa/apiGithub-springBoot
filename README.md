@@ -54,7 +54,7 @@ Abaixo estão os endpoints disponíveis na API, juntamente com exemplos de requi
 
 | **Método** | **Endpoint**     | **Descrição**                                          | **Exemplo de Requisição**                                      |
 |------------|------------------|--------------------------------------------------------|---------------------------------------------------------------|
-| `GET`      | `/api/v1/repos`  | Retorna os repositórios de um usuário do GitHub.       | `GET /api/v1/repos?token=<SEU_TOKEN_AQUI>&visibility=public`   |
+| `GET`      | `/api/v1/repos`  | Retorna os repositórios de um usuário do GitHub.       | `http://localhost:8080/api/v1/repos?token=<seu token>`   |
 
 ### Parâmetros da Requisição:
 * **token**: Personal Access Token do GitHub para autenticação.
