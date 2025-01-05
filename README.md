@@ -14,6 +14,8 @@ Este projeto implementa uma API para recuperar informações sobre repositórios
 
 ## 3. Tecnologias Utilizadas
 
+## 3. Tecnologias Utilizadas
+
 - **Linguagem de Programação**: [Java](https://www.java.com/)
 - **Framework Backend**: [Spring Boot](https://spring.io/projects/spring-boot)
 - **WebClient**: Para realizar requisições HTTP para a API do GitHub.
@@ -21,6 +23,7 @@ Este projeto implementa uma API para recuperar informações sobre repositórios
 - **Gerenciamento de Dependências**: [Maven](https://maven.apache.org/)
 - **IDE**: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **Gerenciamento de Versão**: [Git](https://git-scm.com/)
+- **Postman**: Utilizado para testar os endpoints da API de maneira eficiente, permitindo enviar requisições e analisar as respostas.
 
 ## 4. Estrutura de Pastas
 
@@ -91,8 +94,8 @@ Antes de executar o projeto, verifique se você possui os seguintes itens instal
 #### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/usuario/github-api.git
-cd github-api
+git clone https://github.com/FelipeTiLustosa/apiGithub-springBoot.git
+cd apiGithub-springBoot
 ```
 #### 2. Compile e execute o projeto:
 
