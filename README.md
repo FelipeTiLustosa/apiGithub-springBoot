@@ -14,8 +14,6 @@ Este projeto implementa uma API para recuperar informações sobre repositórios
 
 ## 3. Tecnologias Utilizadas
 
-## 3. Tecnologias Utilizadas
-
 - **Linguagem de Programação**: [Java](https://www.java.com/)
 - **Framework Backend**: [Spring Boot](https://spring.io/projects/spring-boot)
 - **WebClient**: Para realizar requisições HTTP para a API do GitHub.
