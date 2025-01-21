@@ -1,4 +1,4 @@
-# API de Repositórios do GitHub com Spring Boot <img src="https://skillicons.dev/icons?i=spring,java" alt="Spring Boot and Java Icon" style="vertical-align: middle; height: 35px;"/>
+# API de Repositórios do GitHub com Spring Boot <img src="https://skillicons.dev/icons?i=spring,java" alt="Spring Boot and Java Icon" style="vertical-align: middle; height: 35px;"/> <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" style="vertical-align: middle; height: 35px;"/>
 
 ## 1. Visão Geral
 
