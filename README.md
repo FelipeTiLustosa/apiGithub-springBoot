@@ -107,7 +107,7 @@ mvn spring-boot:run
 Com o aplicativo rodando em `http://localhost:8080`, você pode realizar uma requisição **GET** para o endpoint de repositórios. Para testar no Postman ou qualquer outra ferramenta de API, use a seguinte URL:
 
 ```bash
-http://localhost:8080/api/v1/repos?token=<seu token>
+http://localhost:8080/api/v1/repos?token=<seu token>  
 ```
 Adicione o seu Personal Access Token do GitHub na URL para autenticar a requisição.
 ## 8. Tratamento de Erros
